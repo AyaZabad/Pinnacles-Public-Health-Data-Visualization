@@ -30,3 +30,7 @@ The illustrations shows the average percentage of male and female pateince acros
 The visual shows the proportion of patients across different deprivation quantiles for all Pinnacle branches. There appears to be a big gap between the proprotion of enrolled patients in the lowest deprivation quantile and all the other quantiles. This indicates an inability to provide services to individuals on the low scale of the poverty index.
 
 ![image](https://github.com/user-attachments/assets/69033a7c-2e01-4648-9ce2-6d1084da4206)
+
+## Insights
+
+This project gives a short but clear look at who’s enrolled with Pinnacle Midlands Health Network. Most patients are over 25, Māori enrolment is strongest in Tairāwhiti and Lakes, and gender distribution is pretty even overall. The biggest takeaway is the gap in enrolment among people in the lowest deprivation areas, which suggests there’s still work to be done to reach those communities more effectively.
