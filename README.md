@@ -10,13 +10,13 @@ The main areas of focus for this analysis are enrolment demographics by age, eth
 ## Tech Stack
 The analysis was conducted using Microsoft SQL Express for the database and Microsoft PowerBI for dashboarding using SQL where relevant.
 
-### Age
+## Age
 The visual illustrates the average number of enrolled patients for all Pinnacle branches divided across different age bands. The visual indicates highest age representation are patients between the ages of 24 and 64 while the lowest age represnetations are patients between 0 and 4 and between 15 and 24. At a more macro level, the majority of enrolled patients are over the age of 25 while the minority are under the age of 25. 
 
 Children may 
 ![image](https://github.com/user-attachments/assets/f0a5f44b-0671-40f0-80c1-39243cf52774)
 
-### Ethnicity
+## Ethnicity
 This illustrates the dsitribution of patients by ethnicity for each Pinnacle branch. The Tairawhiti and Lakes branches show the highest proportion of patients of Maori ethnicity while the Waikato and Taranaki branches have less Maori representation among their patients.
 
 ![image](https://github.com/user-attachments/assets/91f3a22a-a554-4698-8a1d-0f222001276a)
