@@ -1,4 +1,4 @@
-# Pinnacles Public Health Data Visualization
+# Pinnacles Public Health Data Visualization & Insights
 Data visualizations of Pinnacle Midlands Health Network using publicly available data.
 
 ## Data Set
