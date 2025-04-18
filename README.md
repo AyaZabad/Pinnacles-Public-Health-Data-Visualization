@@ -11,3 +11,15 @@ The main areas of focus for this analysis are enrolment demographics by age, eth
 
 ![image](https://github.com/user-attachments/assets/f0a5f44b-0671-40f0-80c1-39243cf52774)
 
+### Ethnicity
+
+![image](https://github.com/user-attachments/assets/91f3a22a-a554-4698-8a1d-0f222001276a)
+
+
+## Gender
+
+![image](https://github.com/user-attachments/assets/8f7ec637-bfbf-4c33-bbbf-907fb5ff9445)
+
+## Deprivation
+
+![image](https://github.com/user-attachments/assets/69033a7c-2e01-4648-9ce2-6d1084da4206)
