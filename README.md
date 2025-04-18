@@ -13,7 +13,6 @@ The analysis was conducted using Microsoft SQL Express for the database and Micr
 ## Age
 The visual illustrates the average number of enrolled patients for all Pinnacle branches divided across different age bands. At a high level, the majority of enrolled patients are over the age of 25 while the minority are under the age of 25. 
 
-Children may 
 ![image](https://github.com/user-attachments/assets/f0a5f44b-0671-40f0-80c1-39243cf52774)
 
 ## Ethnicity
